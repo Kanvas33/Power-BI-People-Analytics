@@ -4,7 +4,7 @@
 
 To better illustrate the **interactive nature of the Power BI dashboard**, you can view the **GIFs** below:
 
-### Main Tabs Overview
+### General Overview
 ![Main Tabs Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Main%20Tabs.gif)
 
 This GIF demonstrates the functionality of the **Active Employees** tab, **Inactive Employees** tab and **Employees Summary** showcasing how users can interact with the dashboard to explore data related to employees.
