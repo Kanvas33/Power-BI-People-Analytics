@@ -1,4 +1,4 @@
-# People Analytics Dashboard using Microsoft Power BI
+# People Analytics Dashboard using Microsoft Power BI(Portuguese)
 
 ## Interactive Dashboard Illustrations - GIFs
 
