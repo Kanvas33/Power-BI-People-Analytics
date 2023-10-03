@@ -1,6 +1,6 @@
 # People Analytics Dashboard using Microsoft Power BI
 
-## Interactive Dashboard Illustrations - GIF
+## Interactive Dashboard Illustrations - GIFs
 
 To better illustrate the **interactive nature of the Power BI dashboard**, you can view the **GIFs** below:
 
