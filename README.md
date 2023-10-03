@@ -7,22 +7,22 @@ To better illustrate the **interactive nature of the Power BI dashboard**, you c
 ### Main Tabs Overview
 ![Main Tabs Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Main%20Tabs.gif)
 
-This GIF demonstrates the functionality of the Active Employees tab, showcasing how users can interact with the dashboard to explore data related to active employees.
+This GIF demonstrates the functionality of the **Active Employees** tab, **Inactive Employees** tab and **Employees Summary** showcasing how users can interact with the dashboard to explore data related to employees.
 
 ### Active Employees (Department and Status) Overview
 ![Active Employees (Department and Status) Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Active%20Employees%20-%20Departments%20and%20Status.gif)
 
-This GIF demonstrates the functionality of the Active Employees tab, showcasing how users can interact with the dashboard to explore data related to active employees.
+This GIF demonstrates the functionality of the **Active Employees** tab, showcasing how users can interact with the dashboard to explore data related to active employees.
 
 ### Inactive Employees Overview
 ![Inactive Employees Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Inactive%20Employees.gif)
 
-Here, you can see the Inactive Employees tab in action, highlighting the visualization of data related to inactive employees and reasons for their departure.
+Here, you can see the **Inactive Employees** tab in action, highlighting the visualization of data related to inactive employees and reasons for their departure.
 
 ### Employees Summary Tab Overview
 ![Employees Summary Tab Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Employees%20Summary.gif)
 
-The Employee Summary tab provides an overall view of both active and inactive employees, allowing users to filter and analyze data based on various criteria.
+The **Employee Summary** tab provides an **overall view** of both **active and inactive employees**, allowing users to filter and analyze data based on **various criteria**.
 
 **These GIFs help showcase the interactive features and functionality of the Power BI dashboard.**
 
