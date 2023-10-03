@@ -1,5 +1,32 @@
 # People Analytics Dashboard using Microsoft Power BI
 
+## Interactive Dashboard Illustrations - GIF
+
+To better illustrate the **interactive nature of the Power BI dashboard**, you can view the **GIFs** below:
+
+### Main Tabs Overview
+![Main Tabs Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Main%20Tabs.gif)
+
+This GIF demonstrates the functionality of the Active Employees tab, showcasing how users can interact with the dashboard to explore data related to active employees.
+
+### Active Employees (Department and Status) Overview
+![Active Employees (Department and Status) Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Active%20Employees%20-%20Departments%20and%20Status.gif)
+
+This GIF demonstrates the functionality of the Active Employees tab, showcasing how users can interact with the dashboard to explore data related to active employees.
+
+### Inactive Employees Overview
+![Inactive Employees Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Inactive%20Employees.gif)
+
+Here, you can see the Inactive Employees tab in action, highlighting the visualization of data related to inactive employees and reasons for their departure.
+
+### Employees Summary Tab Overview
+![Employees Summary Tab Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Employees%20Summary.gif)
+
+The Employee Summary tab provides an overall view of both active and inactive employees, allowing users to filter and analyze data based on various criteria.
+
+**These GIFs help showcase the interactive features and functionality of the Power BI dashboard.**
+
+
 ## Project Overview
 
 This GitHub repository contains the code and resources for a **Microsoft Power BI interactive dashboard** focused on **People Analytics** within the context of **Human Resources**. The project aims to **analyze active and inactive employees**, including those who have been terminated or left the company voluntarily. By leveraging the power of **data analysis and visualization**, the project seeks to provide valuable **insights for both the company and its employees**.
@@ -31,10 +58,6 @@ This GitHub repository contains the code and resources for a **Microsoft Power B
 - Analysis of factors contributing to employee turnover.
 - Evaluation of satisfaction levels and their relationship with salaries.
 - Insights into recruitment sources and their effectiveness.
-
-## Interactive Dashboard Illustrations
-
-To better illustrate the interactive nature of the Power BI dashboard, **GIFs have been added to provide a visual demonstration of its functionality**.
 
 ## Conclusion
 
