@@ -17,7 +17,7 @@ This GIF demonstrates the functionality of the **Active Employees** tab, showcas
 ### Inactive Employees Overview
 ![Inactive Employees Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Inactive%20Employees.gif)
 
-Here, you can see the **Inactive Employees** tab in action, highlighting the visualization of data related to inactive employees and reasons for their departure.
+Here, you can see the **Inactive Employees** tab in action, highlighting the visualization of data related to inactive employees and **reasons for their departure**.
 
 ### Employees Summary Tab Overview
 ![Employees Summary Tab Overview](https://github.com/Kanvas33/Power-BI-People-Analytics/blob/main/Employees%20Summary.gif)
