@@ -1,5 +1,5 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="powerbi" width="50" height="50"/> </a>
-# People Analytics Dashboard using Microsoft Power BI(Portuguese)
+# People Analytics Dashboard using Microsoft Power BI(Portuguese) 
 
 ## Interactive Dashboard Illustrations - GIFs
 
